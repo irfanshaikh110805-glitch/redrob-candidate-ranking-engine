@@ -1,0 +1,2802 @@
+[
+  {
+    "candidate_id": "CAND_0088025",
+    "semantic_similarity": 0.7827,
+    "skill_match": 0.3561,
+    "experience_match": 0.9802,
+    "behavior_score": 0.8274,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.7069,
+    "reasoning": "Matched [Python, Machine Learning, NLP] | Missing [Docker, SQL, NoSQL] | 8.6 years experience | Platform engagement: High (GitHub: 75%) | Location: Willing to Relocate | Final Score: 70.7%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 1
+  },
+  {
+    "candidate_id": "CAND_0096142",
+    "semantic_similarity": 0.7827,
+    "skill_match": 0.252,
+    "experience_match": 1.0,
+    "behavior_score": 0.8048,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6816,
+    "reasoning": "Matched [Python, NLP, RAG] | Missing [Machine Learning, TensorFlow, Docker] | 5.0 years experience | Platform engagement: High (GitHub: 80%) | Location: Willing to Relocate | Final Score: 68.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 2
+  },
+  {
+    "candidate_id": "CAND_0074735",
+    "semantic_similarity": 0.7839,
+    "skill_match": 0.2501,
+    "experience_match": 1.0,
+    "behavior_score": 0.8183,
+    "location_bonus": 0.5,
+    "education_score": 0.955,
+    "final_score": 0.6807,
+    "reasoning": "Matched [Machine Learning, TensorFlow, RAG] | Missing [Python, NLP, Docker] | 5.5 years experience | Platform engagement: High (GitHub: 88%) | Location: Willing to Relocate | Final Score: 68.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 3
+  },
+  {
+    "candidate_id": "CAND_0010257",
+    "semantic_similarity": 0.7804,
+    "skill_match": 0.2559,
+    "experience_match": 1.0,
+    "behavior_score": 0.7703,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6782,
+    "reasoning": "Matched [Python, Machine Learning, TensorFlow] | Missing [NLP, Docker, SQL] | 6.5 years experience | Platform engagement: High (GitHub: 46%) | Location: Willing to Relocate | Final Score: 67.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 4
+  },
+  {
+    "candidate_id": "CAND_0002025",
+    "semantic_similarity": 0.7629,
+    "skill_match": 0.2798,
+    "experience_match": 1.0,
+    "behavior_score": 0.7419,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6743,
+    "reasoning": "Matched [Python, Machine Learning, NLP] | Missing [Docker, SQL, NoSQL] | 5.9 years experience | Platform engagement: Medium (GitHub: 97%) | Location: Willing to Relocate | Final Score: 67.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 5
+  },
+  {
+    "candidate_id": "CAND_0020708",
+    "semantic_similarity": 0.7744,
+    "skill_match": 0.2353,
+    "experience_match": 1.0,
+    "behavior_score": 0.8048,
+    "location_bonus": 0.5,
+    "education_score": 0.99,
+    "final_score": 0.6736,
+    "reasoning": "Matched [Python, NLP, TensorFlow] | Missing [Machine Learning, Docker, SQL] | 4.2 years experience | Platform engagement: High (GitHub: 84%) | Location: Willing to Relocate | Final Score: 67.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 6
+  },
+  {
+    "candidate_id": "CAND_0037944",
+    "semantic_similarity": 0.7868,
+    "skill_match": 0.2552,
+    "experience_match": 1.0,
+    "behavior_score": 0.7253,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6711,
+    "reasoning": "Matched [Python, Machine Learning, NLP] | Missing [TensorFlow, Docker, SQL] | 4.9 years experience | Platform engagement: Medium (GitHub: 83%) | Location: Willing to Relocate | Final Score: 67.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 7
+  },
+  {
+    "candidate_id": "CAND_0012957",
+    "semantic_similarity": 0.7762,
+    "skill_match": 0.2618,
+    "experience_match": 1.0,
+    "behavior_score": 0.6814,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6691,
+    "reasoning": "Matched [Python, Machine Learning, RAG] | Missing [NLP, TensorFlow, Docker] | 4.9 years experience | Platform engagement: Medium (GitHub: 54%) | Location: Willing to Relocate | Final Score: 66.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "RAG"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 8
+  },
+  {
+    "candidate_id": "CAND_0046525",
+    "semantic_similarity": 0.7711,
+    "skill_match": 0.2229,
+    "experience_match": 1.0,
+    "behavior_score": 0.7645,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6656,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 6.1 years experience | Platform engagement: High (GitHub: 37%) | Location: Willing to Relocate | Final Score: 66.6%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 9
+  },
+  {
+    "candidate_id": "CAND_0030031",
+    "semantic_similarity": 0.7773,
+    "skill_match": 0.2534,
+    "experience_match": 1.0,
+    "behavior_score": 0.6836,
+    "location_bonus": 0.5,
+    "education_score": 0.95,
+    "final_score": 0.6651,
+    "reasoning": "Matched [Python, NLP, RAG] | Missing [Machine Learning, TensorFlow, Docker] | 5.7 years experience | Platform engagement: Medium (GitHub: 32%) | Location: Willing to Relocate | Final Score: 66.5%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 10
+  },
+  {
+    "candidate_id": "CAND_0047721",
+    "semantic_similarity": 0.7802,
+    "skill_match": 0.2462,
+    "experience_match": 1.0,
+    "behavior_score": 0.6737,
+    "location_bonus": 0.5,
+    "education_score": 0.95,
+    "final_score": 0.6635,
+    "reasoning": "Matched [Machine Learning, NLP, RAG] | Missing [Python, TensorFlow, Docker] | 7.0 years experience | Platform engagement: Medium (GitHub: 90%) | Location: Willing to Relocate | Final Score: 66.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 11
+  },
+  {
+    "candidate_id": "CAND_0075504",
+    "semantic_similarity": 0.7759,
+    "skill_match": 0.289,
+    "experience_match": 1.0,
+    "behavior_score": 0.6349,
+    "location_bonus": 0.5,
+    "education_score": 0.84,
+    "final_score": 0.6631,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 3.0 years experience | Platform engagement: Medium (GitHub: 66%) | Location: Willing to Relocate | Final Score: 66.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 12
+  },
+  {
+    "candidate_id": "CAND_0015578",
+    "semantic_similarity": 0.7541,
+    "skill_match": 0.2533,
+    "experience_match": 1.0,
+    "behavior_score": 0.7191,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6619,
+    "reasoning": "Matched [Machine Learning, NLP, RAG] | Missing [Python, TensorFlow, Docker] | 5.4 years experience | Platform engagement: Medium (GitHub: 28%) | Location: Willing to Relocate | Final Score: 66.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 13
+  },
+  {
+    "candidate_id": "CAND_0072784",
+    "semantic_similarity": 0.7771,
+    "skill_match": 0.257,
+    "experience_match": 1.0,
+    "behavior_score": 0.6146,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6616,
+    "reasoning": "Matched [Python, SQL, NoSQL] | Missing [Machine Learning, NLP, TensorFlow] | 3.4 years experience | Platform engagement: Medium (GitHub: 47%) | Location: Willing to Relocate | Final Score: 66.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "Git"
+    ],
+    "rank": 14
+  },
+  {
+    "candidate_id": "CAND_0005260",
+    "semantic_similarity": 0.7472,
+    "skill_match": 0.2711,
+    "experience_match": 1.0,
+    "behavior_score": 0.6766,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6593,
+    "reasoning": "Matched [Python, Machine Learning, NLP] | Missing [TensorFlow, Docker, SQL] | 5.2 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 65.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 15
+  },
+  {
+    "candidate_id": "CAND_0059017",
+    "semantic_similarity": 0.7657,
+    "skill_match": 0.1963,
+    "experience_match": 1.0,
+    "behavior_score": 0.7826,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6586,
+    "reasoning": "Matched [Python, Machine Learning, TensorFlow] | Missing [NLP, Docker, SQL] | 6.8 years experience | Platform engagement: High (GitHub: 76%) | Location: Willing to Relocate | Final Score: 65.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 16
+  },
+  {
+    "candidate_id": "CAND_0025335",
+    "semantic_similarity": 0.7835,
+    "skill_match": 0.2751,
+    "experience_match": 1.0,
+    "behavior_score": 0.5117,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6583,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 6.6 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 65.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 17
+  },
+  {
+    "candidate_id": "CAND_0050876",
+    "semantic_similarity": 0.786,
+    "skill_match": 0.1919,
+    "experience_match": 1.0,
+    "behavior_score": 0.7586,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6582,
+    "reasoning": "Matched [Python, Machine Learning, SQL] | Missing [NLP, TensorFlow, Docker] | 6.0 years experience | Platform engagement: High (GitHub: 86%) | Location: Willing to Relocate | Final Score: 65.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "NoSQL"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 18
+  },
+  {
+    "candidate_id": "CAND_0051615",
+    "semantic_similarity": 0.7706,
+    "skill_match": 0.1954,
+    "experience_match": 1.0,
+    "behavior_score": 0.7575,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6579,
+    "reasoning": "Matched [NLP, RAG, REST API] | Missing [Python, Machine Learning, TensorFlow] | 4.6 years experience | Platform engagement: High (GitHub: 95%) | Location: Willing to Relocate | Final Score: 65.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "NLP",
+      "RAG",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "Git"
+    ],
+    "rank": 19
+  },
+  {
+    "candidate_id": "CAND_0064326",
+    "semantic_similarity": 0.7676,
+    "skill_match": 0.198,
+    "experience_match": 1.0,
+    "behavior_score": 0.7814,
+    "location_bonus": 0.5,
+    "education_score": 0.94,
+    "final_score": 0.6567,
+    "reasoning": "Matched [Python, Machine Learning, RAG] | Missing [NLP, TensorFlow, Docker] | 7.6 years experience | Platform engagement: High (GitHub: 61%) | Location: Willing to Relocate | Final Score: 65.7%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "RAG"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 20
+  },
+  {
+    "candidate_id": "CAND_0028287",
+    "semantic_similarity": 0.7936,
+    "skill_match": 0.2046,
+    "experience_match": 1.0,
+    "behavior_score": 0.7266,
+    "location_bonus": 0.5,
+    "education_score": 0.78,
+    "final_score": 0.6552,
+    "reasoning": "Matched [Python, NLP, RAG] | Missing [Machine Learning, TensorFlow, Docker] | 5.7 years experience | Platform engagement: Medium (GitHub: 42%) | Location: Willing to Relocate | Final Score: 65.5%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 21
+  },
+  {
+    "candidate_id": "CAND_0009837",
+    "semantic_similarity": 0.7875,
+    "skill_match": 0.2124,
+    "experience_match": 1.0,
+    "behavior_score": 0.6129,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6544,
+    "reasoning": "Matched [Python, TensorFlow, REST API] | Missing [Machine Learning, NLP, Docker] | 4.3 years experience | Platform engagement: Medium (GitHub: 54%) | Location: Willing to Relocate | Final Score: 65.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "TensorFlow",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "Git"
+    ],
+    "rank": 22
+  },
+  {
+    "candidate_id": "CAND_0078002",
+    "semantic_similarity": 0.7752,
+    "skill_match": 0.1776,
+    "experience_match": 1.0,
+    "behavior_score": 0.7938,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6539,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 6.3 years experience | Platform engagement: High (GitHub: 51%) | Location: Willing to Relocate | Final Score: 65.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 23
+  },
+  {
+    "candidate_id": "CAND_0011967",
+    "semantic_similarity": 0.7878,
+    "skill_match": 0.2351,
+    "experience_match": 1.0,
+    "behavior_score": 0.6089,
+    "location_bonus": 0.5,
+    "education_score": 0.88,
+    "final_score": 0.6538,
+    "reasoning": "Matched [Python, Machine Learning, NLP] | Missing [TensorFlow, Docker, SQL] | 6.9 years experience | Platform engagement: Medium (GitHub: 38%) | Location: Willing to Relocate | Final Score: 65.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "REST API"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "Git"
+    ],
+    "rank": 24
+  },
+  {
+    "candidate_id": "CAND_0077956",
+    "semantic_similarity": 0.7726,
+    "skill_match": 0.1597,
+    "experience_match": 1.0,
+    "behavior_score": 0.7884,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6528,
+    "reasoning": "Matched [Machine Learning, TensorFlow, SQL] | Missing [Python, NLP, Docker] | 6.4 years experience | Platform engagement: High (GitHub: 41%) | Location: Willing to Relocate | Final Score: 65.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "SQL",
+      "NoSQL"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 25
+  },
+  {
+    "candidate_id": "CAND_0081846",
+    "semantic_similarity": 0.7828,
+    "skill_match": 0.1738,
+    "experience_match": 1.0,
+    "behavior_score": 0.7526,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6518,
+    "reasoning": "Matched [Python, Machine Learning] | Missing [NLP, TensorFlow, Docker] | 6.7 years experience | Platform engagement: High (GitHub: 34%) | Location: Willing to Relocate | Final Score: 65.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 26
+  },
+  {
+    "candidate_id": "CAND_0083790",
+    "semantic_similarity": 0.7726,
+    "skill_match": 0.1937,
+    "experience_match": 1.0,
+    "behavior_score": 0.6908,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6515,
+    "reasoning": "Matched [Python, NLP, RAG] | Missing [Machine Learning, TensorFlow, Docker] | 3.5 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 65.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 27
+  },
+  {
+    "candidate_id": "CAND_0037566",
+    "semantic_similarity": 0.7728,
+    "skill_match": 0.1636,
+    "experience_match": 1.0,
+    "behavior_score": 0.7915,
+    "location_bonus": 0.5,
+    "education_score": 0.94,
+    "final_score": 0.6512,
+    "reasoning": "Matched [NLP, TensorFlow] | Missing [Python, Machine Learning, Docker] | 6.9 years experience | Platform engagement: High (GitHub: 73%) | Location: Willing to Relocate | Final Score: 65.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 28
+  },
+  {
+    "candidate_id": "CAND_0093749",
+    "semantic_similarity": 0.8104,
+    "skill_match": 0.1893,
+    "experience_match": 0.9651,
+    "behavior_score": 0.5994,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6512,
+    "reasoning": "Matched [Python, RAG, REST API] | Missing [Machine Learning, NLP, TensorFlow] | 2.2 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 65.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "RAG",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "Git"
+    ],
+    "rank": 29
+  },
+  {
+    "candidate_id": "CAND_0065878",
+    "semantic_similarity": 0.7768,
+    "skill_match": 0.2319,
+    "experience_match": 1.0,
+    "behavior_score": 0.6212,
+    "location_bonus": 0.5,
+    "education_score": 0.89,
+    "final_score": 0.6503,
+    "reasoning": "Matched [Machine Learning, TensorFlow, RAG] | Missing [Python, NLP, Docker] | 7.8 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 65.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 30
+  },
+  {
+    "candidate_id": "CAND_0017425",
+    "semantic_similarity": 0.8189,
+    "skill_match": 0.2095,
+    "experience_match": 1.0,
+    "behavior_score": 0.5176,
+    "location_bonus": 0.5,
+    "education_score": 0.87,
+    "final_score": 0.6502,
+    "reasoning": "Matched [Machine Learning, Docker, RAG] | Missing [Python, NLP, TensorFlow] | 3.7 years experience | Platform engagement: Medium (GitHub: 12%) | Location: Willing to Relocate | Final Score: 65.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "Docker",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 31
+  },
+  {
+    "candidate_id": "CAND_0077337",
+    "semantic_similarity": 0.7917,
+    "skill_match": 0.1754,
+    "experience_match": 1.0,
+    "behavior_score": 0.7717,
+    "location_bonus": 0.5,
+    "education_score": 0.75,
+    "final_score": 0.6502,
+    "reasoning": "Matched [Python, RAG] | Missing [Machine Learning, NLP, TensorFlow] | 7.0 years experience | Platform engagement: High (GitHub: 68%) | Location: Willing to Relocate | Final Score: 65.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 32
+  },
+  {
+    "candidate_id": "CAND_0029367",
+    "semantic_similarity": 0.7806,
+    "skill_match": 0.2506,
+    "experience_match": 1.0,
+    "behavior_score": 0.6816,
+    "location_bonus": 0.5,
+    "education_score": 0.64,
+    "final_score": 0.65,
+    "reasoning": "Matched [NLP, TensorFlow, RAG] | Missing [Python, Machine Learning, Docker] | 5.7 years experience | Platform engagement: Medium (GitHub: 40%) | Location: Willing to Relocate | Final Score: 65.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "NLP",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 33
+  },
+  {
+    "candidate_id": "CAND_0032505",
+    "semantic_similarity": 0.7518,
+    "skill_match": 0.2294,
+    "experience_match": 1.0,
+    "behavior_score": 0.6637,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6494,
+    "reasoning": "Matched [NLP, Docker, SQL] | Missing [Python, Machine Learning, TensorFlow] | 3.8 years experience | Platform engagement: Medium (GitHub: 64%) | Location: Willing to Relocate | Final Score: 64.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "RAG",
+      "Git"
+    ],
+    "rank": 34
+  },
+  {
+    "candidate_id": "CAND_0054441",
+    "semantic_similarity": 0.7985,
+    "skill_match": 0.2195,
+    "experience_match": 1.0,
+    "behavior_score": 0.5231,
+    "location_bonus": 0.5,
+    "education_score": 0.955,
+    "final_score": 0.6493,
+    "reasoning": "Matched [Python, Machine Learning, Docker] | Missing [NLP, TensorFlow, RAG] | 7.9 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 64.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 35
+  },
+  {
+    "candidate_id": "CAND_0098288",
+    "semantic_similarity": 0.767,
+    "skill_match": 0.2016,
+    "experience_match": 1.0,
+    "behavior_score": 0.6652,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6487,
+    "reasoning": "Matched [Python, NLP, RAG] | Missing [Machine Learning, TensorFlow, Docker] | 6.7 years experience | Platform engagement: Medium (GitHub: 30%) | Location: Willing to Relocate | Final Score: 64.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 36
+  },
+  {
+    "candidate_id": "CAND_0042029",
+    "semantic_similarity": 0.764,
+    "skill_match": 0.2408,
+    "experience_match": 1.0,
+    "behavior_score": 0.6575,
+    "location_bonus": 0.5,
+    "education_score": 0.84,
+    "final_score": 0.6486,
+    "reasoning": "Matched [Machine Learning, NLP, RAG] | Missing [Python, TensorFlow, Docker] | 6.5 years experience | Platform engagement: Medium (GitHub: 79%) | Location: Willing to Relocate | Final Score: 64.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "RAG",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "Git"
+    ],
+    "rank": 37
+  },
+  {
+    "candidate_id": "CAND_0061257",
+    "semantic_similarity": 0.7659,
+    "skill_match": 0.1722,
+    "experience_match": 1.0,
+    "behavior_score": 0.7849,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6479,
+    "reasoning": "Matched [Python, Machine Learning] | Missing [NLP, TensorFlow, Docker] | 8.0 years experience | Platform engagement: High (GitHub: 45%) | Location: Willing to Relocate | Final Score: 64.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 38
+  },
+  {
+    "candidate_id": "CAND_0022894",
+    "semantic_similarity": 0.7943,
+    "skill_match": 0.2151,
+    "experience_match": 1.0,
+    "behavior_score": 0.5113,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6476,
+    "reasoning": "Matched [Machine Learning, NLP, RAG] | Missing [Python, TensorFlow, Docker] | 7.4 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 64.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "RAG",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "Git"
+    ],
+    "rank": 39
+  },
+  {
+    "candidate_id": "CAND_0051545",
+    "semantic_similarity": 0.7798,
+    "skill_match": 0.1938,
+    "experience_match": 1.0,
+    "behavior_score": 0.6188,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6473,
+    "reasoning": "Matched [Machine Learning, TensorFlow, RAG] | Missing [Python, NLP, Docker] | 3.2 years experience | Platform engagement: Medium (GitHub: 43%) | Location: Willing to Relocate | Final Score: 64.7%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 40
+  },
+  {
+    "candidate_id": "CAND_0018499",
+    "semantic_similarity": 0.7835,
+    "skill_match": 0.1016,
+    "experience_match": 1.0,
+    "behavior_score": 0.8583,
+    "location_bonus": 0.5,
+    "education_score": 0.95,
+    "final_score": 0.6471,
+    "reasoning": "Matched [Machine Learning, RAG] | Missing [Python, NLP, TensorFlow] | 7.2 years experience | Platform engagement: High (GitHub: 95%) | Location: Willing to Relocate | Final Score: 64.7%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 41
+  },
+  {
+    "candidate_id": "CAND_0064904",
+    "semantic_similarity": 0.7603,
+    "skill_match": 0.1745,
+    "experience_match": 1.0,
+    "behavior_score": 0.7738,
+    "location_bonus": 0.5,
+    "education_score": 0.94,
+    "final_score": 0.6471,
+    "reasoning": "Matched [Python, TensorFlow] | Missing [Machine Learning, NLP, Docker] | 4.9 years experience | Platform engagement: High (GitHub: 59%) | Location: Willing to Relocate | Final Score: 64.7%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 42
+  },
+  {
+    "candidate_id": "CAND_0057701",
+    "semantic_similarity": 0.7486,
+    "skill_match": 0.2403,
+    "experience_match": 1.0,
+    "behavior_score": 0.6683,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6463,
+    "reasoning": "Matched [Python, Machine Learning, TensorFlow] | Missing [NLP, Docker, SQL] | 4.1 years experience | Platform engagement: Medium (GitHub: 65%) | Location: Willing to Relocate | Final Score: 64.6%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 43
+  },
+  {
+    "candidate_id": "CAND_0094685",
+    "semantic_similarity": 0.7793,
+    "skill_match": 0.1369,
+    "experience_match": 1.0,
+    "behavior_score": 0.7519,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6461,
+    "reasoning": "Matched [Python, Machine Learning] | Missing [NLP, TensorFlow, Docker] | 3.5 years experience | Platform engagement: High (GitHub: 53%) | Location: Willing to Relocate | Final Score: 64.6%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 44
+  },
+  {
+    "candidate_id": "CAND_0071974",
+    "semantic_similarity": 0.7548,
+    "skill_match": 0.1446,
+    "experience_match": 1.0,
+    "behavior_score": 0.8304,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6461,
+    "reasoning": "Matched [Machine Learning, RAG] | Missing [Python, NLP, TensorFlow] | 7.8 years experience | Platform engagement: High (GitHub: 83%) | Location: Willing to Relocate | Final Score: 64.6%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 45
+  },
+  {
+    "candidate_id": "CAND_0081686",
+    "semantic_similarity": 0.7816,
+    "skill_match": 0.1768,
+    "experience_match": 1.0,
+    "behavior_score": 0.6924,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6461,
+    "reasoning": "Matched [Python, Machine Learning] | Missing [NLP, TensorFlow, Docker] | 6.0 years experience | Platform engagement: Medium (GitHub: 46%) | Location: Willing to Relocate | Final Score: 64.6%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 46
+  },
+  {
+    "candidate_id": "CAND_0016163",
+    "semantic_similarity": 0.7534,
+    "skill_match": 0.1764,
+    "experience_match": 1.0,
+    "behavior_score": 0.8347,
+    "location_bonus": 0.5,
+    "education_score": 0.84,
+    "final_score": 0.6459,
+    "reasoning": "Matched [Machine Learning, TensorFlow] | Missing [Python, NLP, Docker] | 6.7 years experience | Platform engagement: High (GitHub: 95%) | Location: Willing to Relocate | Final Score: 64.6%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 47
+  },
+  {
+    "candidate_id": "CAND_0014743",
+    "semantic_similarity": 0.7779,
+    "skill_match": 0.1563,
+    "experience_match": 1.0,
+    "behavior_score": 0.7051,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6457,
+    "reasoning": "Matched [Python, Machine Learning, REST API] | Missing [NLP, TensorFlow, Docker] | 3.6 years experience | Platform engagement: Medium (GitHub: 47%) | Location: Willing to Relocate | Final Score: 64.6%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "REST API"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "Git"
+    ],
+    "rank": 48
+  },
+  {
+    "candidate_id": "CAND_0026913",
+    "semantic_similarity": 0.7675,
+    "skill_match": 0.1873,
+    "experience_match": 1.0,
+    "behavior_score": 0.748,
+    "location_bonus": 0.5,
+    "education_score": 0.84,
+    "final_score": 0.6456,
+    "reasoning": "Matched [NLP, TensorFlow, SQL] | Missing [Python, Machine Learning, Docker] | 3.9 years experience | Platform engagement: Medium (GitHub: 27%) | Location: Willing to Relocate | Final Score: 64.6%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "NLP",
+      "TensorFlow",
+      "SQL",
+      "NoSQL"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 49
+  },
+  {
+    "candidate_id": "CAND_0068985",
+    "semantic_similarity": 0.7644,
+    "skill_match": 0.1891,
+    "experience_match": 1.0,
+    "behavior_score": 0.6737,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6454,
+    "reasoning": "Matched [Machine Learning, TensorFlow, REST API] | Missing [Python, NLP, Docker] | 5.2 years experience | Platform engagement: Medium (GitHub: 62%) | Location: Willing to Relocate | Final Score: 64.5%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "Git"
+    ],
+    "rank": 50
+  },
+  {
+    "candidate_id": "CAND_0008392",
+    "semantic_similarity": 0.7709,
+    "skill_match": 0.1669,
+    "experience_match": 1.0,
+    "behavior_score": 0.7031,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6454,
+    "reasoning": "Matched [Python, NLP, REST API] | Missing [Machine Learning, TensorFlow, Docker] | 4.2 years experience | Platform engagement: Medium (GitHub: 66%) | Location: Willing to Relocate | Final Score: 64.5%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "Git"
+    ],
+    "rank": 51
+  },
+  {
+    "candidate_id": "CAND_0040972",
+    "semantic_similarity": 0.7751,
+    "skill_match": 0.2642,
+    "experience_match": 1.0,
+    "behavior_score": 0.4567,
+    "location_bonus": 0.5,
+    "education_score": 0.97,
+    "final_score": 0.6453,
+    "reasoning": "Matched [Machine Learning, NLP, Docker] | Missing [Python, TensorFlow, RAG] | 6.2 years experience | Platform engagement: Medium (GitHub: 16%) | Location: Willing to Relocate | Final Score: 64.5%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL"
+    ],
+    "missing_skills": [
+      "Python",
+      "TensorFlow",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 52
+  },
+  {
+    "candidate_id": "CAND_0075304",
+    "semantic_similarity": 0.7965,
+    "skill_match": 0.1908,
+    "experience_match": 1.0,
+    "behavior_score": 0.7195,
+    "location_bonus": 0.5,
+    "education_score": 0.64,
+    "final_score": 0.6452,
+    "reasoning": "Matched [Machine Learning, Docker, SQL] | Missing [Python, NLP, TensorFlow] | 3.4 years experience | Platform engagement: Medium (GitHub: 72%) | Location: Willing to Relocate | Final Score: 64.5%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 53
+  },
+  {
+    "candidate_id": "CAND_0022523",
+    "semantic_similarity": 0.7818,
+    "skill_match": 0.2033,
+    "experience_match": 0.995,
+    "behavior_score": 0.6838,
+    "location_bonus": 0.5,
+    "education_score": 0.765,
+    "final_score": 0.6444,
+    "reasoning": "Matched [Machine Learning, TensorFlow, RAG] | Missing [Python, NLP, Docker] | 2.7 years experience | Platform engagement: Medium (GitHub: 40%) | Location: Willing to Relocate | Final Score: 64.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 54
+  },
+  {
+    "candidate_id": "CAND_0086022",
+    "semantic_similarity": 0.7639,
+    "skill_match": 0.1548,
+    "experience_match": 1.0,
+    "behavior_score": 0.7508,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6443,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 5.3 years experience | Platform engagement: High (GitHub: 75%) | Location: Willing to Relocate | Final Score: 64.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 55
+  },
+  {
+    "candidate_id": "CAND_0084090",
+    "semantic_similarity": 0.7709,
+    "skill_match": 0.1863,
+    "experience_match": 1.0,
+    "behavior_score": 0.6689,
+    "location_bonus": 0.5,
+    "education_score": 0.94,
+    "final_score": 0.6438,
+    "reasoning": "Matched [Python, NLP, TensorFlow] | Missing [Machine Learning, Docker, SQL] | 3.9 years experience | Platform engagement: Medium (GitHub: 20%) | Location: Willing to Relocate | Final Score: 64.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 56
+  },
+  {
+    "candidate_id": "CAND_0008425",
+    "semantic_similarity": 0.7575,
+    "skill_match": 0.2451,
+    "experience_match": 1.0,
+    "behavior_score": 0.72,
+    "location_bonus": 0.5,
+    "education_score": 0.65,
+    "final_score": 0.6438,
+    "reasoning": "Matched [Python, NLP, TensorFlow] | Missing [Machine Learning, Docker, SQL] | 7.8 years experience | Platform engagement: Medium (GitHub: 53%) | Location: Willing to Relocate | Final Score: 64.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 57
+  },
+  {
+    "candidate_id": "CAND_0031703",
+    "semantic_similarity": 0.7565,
+    "skill_match": 0.2322,
+    "experience_match": 1.0,
+    "behavior_score": 0.6302,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6437,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 6.8 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 64.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "Git"
+    ],
+    "rank": 58
+  },
+  {
+    "candidate_id": "CAND_0068351",
+    "semantic_similarity": 0.7587,
+    "skill_match": 0.2419,
+    "experience_match": 1.0,
+    "behavior_score": 0.596,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6436,
+    "reasoning": "Matched [Python, Machine Learning, NLP] | Missing [TensorFlow, Docker, SQL] | 6.4 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 64.4%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 59
+  },
+  {
+    "candidate_id": "CAND_0058517",
+    "semantic_similarity": 0.7655,
+    "skill_match": 0.1826,
+    "experience_match": 1.0,
+    "behavior_score": 0.6665,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6435,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 5.1 years experience | Platform engagement: Medium (GitHub: 77%) | Location: Willing to Relocate | Final Score: 64.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 60
+  },
+  {
+    "candidate_id": "CAND_0044213",
+    "semantic_similarity": 0.7786,
+    "skill_match": 0.1255,
+    "experience_match": 1.0,
+    "behavior_score": 0.8356,
+    "location_bonus": 0.5,
+    "education_score": 0.84,
+    "final_score": 0.6434,
+    "reasoning": "Matched [Python, Machine Learning] | Missing [NLP, TensorFlow, Docker] | 3.7 years experience | Platform engagement: High (GitHub: 69%) | Location: Willing to Relocate | Final Score: 64.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 61
+  },
+  {
+    "candidate_id": "CAND_0080766",
+    "semantic_similarity": 0.7744,
+    "skill_match": 0.1905,
+    "experience_match": 0.9651,
+    "behavior_score": 0.7123,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6434,
+    "reasoning": "Matched [Python, Machine Learning, TensorFlow] | Missing [NLP, Docker, SQL] | 8.8 years experience | Platform engagement: Medium (GitHub: 33%) | Location: Willing to Relocate | Final Score: 64.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 62
+  },
+  {
+    "candidate_id": "CAND_0003977",
+    "semantic_similarity": 0.742,
+    "skill_match": 0.2322,
+    "experience_match": 1.0,
+    "behavior_score": 0.6341,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6433,
+    "reasoning": "Matched [Python, Machine Learning, NLP] | Missing [TensorFlow, Docker, SQL] | 4.6 years experience | Platform engagement: Medium (GitHub: 58%) | Location: Willing to Relocate | Final Score: 64.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 63
+  },
+  {
+    "candidate_id": "CAND_0084498",
+    "semantic_similarity": 0.7682,
+    "skill_match": 0.2138,
+    "experience_match": 1.0,
+    "behavior_score": 0.5704,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6428,
+    "reasoning": "Matched [Python, NLP, RAG] | Missing [Machine Learning, TensorFlow, Docker] | 3.1 years experience | Platform engagement: Medium (GitHub: 73%) | Location: Willing to Relocate | Final Score: 64.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 64
+  },
+  {
+    "candidate_id": "CAND_0030468",
+    "semantic_similarity": 0.7505,
+    "skill_match": 0.1611,
+    "experience_match": 1.0,
+    "behavior_score": 0.7714,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6426,
+    "reasoning": "Matched [Machine Learning, TensorFlow] | Missing [Python, NLP, Docker] | 5.4 years experience | Platform engagement: High (GitHub: 45%) | Location: Willing to Relocate | Final Score: 64.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 65
+  },
+  {
+    "candidate_id": "CAND_0051630",
+    "semantic_similarity": 0.7782,
+    "skill_match": 0.2667,
+    "experience_match": 1.0,
+    "behavior_score": 0.4807,
+    "location_bonus": 0.5,
+    "education_score": 0.83,
+    "final_score": 0.6425,
+    "reasoning": "Matched [Python, Machine Learning, NLP] | Missing [TensorFlow, Docker, SQL] | 6.0 years experience | Platform engagement: Medium (GitHub: 66%) | Location: Willing to Relocate | Final Score: 64.3%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP"
+    ],
+    "missing_skills": [
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 66
+  },
+  {
+    "candidate_id": "CAND_0026942",
+    "semantic_similarity": 0.7771,
+    "skill_match": 0.1229,
+    "experience_match": 1.0,
+    "behavior_score": 0.7627,
+    "location_bonus": 0.5,
+    "education_score": 0.99,
+    "final_score": 0.6423,
+    "reasoning": "Matched [TensorFlow, REST API] | Missing [Python, Machine Learning, NLP] | 6.0 years experience | Platform engagement: High (GitHub: 67%) | Location: Willing to Relocate | Final Score: 64.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "TensorFlow",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "Git"
+    ],
+    "rank": 67
+  },
+  {
+    "candidate_id": "CAND_0093193",
+    "semantic_similarity": 0.7628,
+    "skill_match": 0.1559,
+    "experience_match": 1.0,
+    "behavior_score": 0.7303,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6421,
+    "reasoning": "Matched [Machine Learning, TensorFlow] | Missing [Python, NLP, Docker] | 7.9 years experience | Platform engagement: Medium (GitHub: 34%) | Location: Willing to Relocate | Final Score: 64.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 68
+  },
+  {
+    "candidate_id": "CAND_0003810",
+    "semantic_similarity": 0.8007,
+    "skill_match": 0.2104,
+    "experience_match": 1.0,
+    "behavior_score": 0.5214,
+    "location_bonus": 0.5,
+    "education_score": 0.84,
+    "final_score": 0.642,
+    "reasoning": "Matched [NLP, TensorFlow, Docker] | Missing [Python, Machine Learning, SQL] | 3.3 years experience | Platform engagement: Medium (GitHub: 52%) | Location: Willing to Relocate | Final Score: 64.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 69
+  },
+  {
+    "candidate_id": "CAND_0058688",
+    "semantic_similarity": 0.766,
+    "skill_match": 0.1579,
+    "experience_match": 1.0,
+    "behavior_score": 0.7103,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6419,
+    "reasoning": "Matched [Machine Learning, TensorFlow] | Missing [Python, NLP, Docker] | 6.7 years experience | Platform engagement: Medium (GitHub: 39%) | Location: Willing to Relocate | Final Score: 64.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 70
+  },
+  {
+    "candidate_id": "CAND_0092255",
+    "semantic_similarity": 0.7898,
+    "skill_match": 0.161,
+    "experience_match": 1.0,
+    "behavior_score": 0.6566,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6418,
+    "reasoning": "Matched [Machine Learning, RAG] | Missing [Python, NLP, TensorFlow] | 5.2 years experience | Platform engagement: Medium (GitHub: 78%) | Location: Willing to Relocate | Final Score: 64.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 71
+  },
+  {
+    "candidate_id": "CAND_0092989",
+    "semantic_similarity": 0.7932,
+    "skill_match": 0.1304,
+    "experience_match": 1.0,
+    "behavior_score": 0.6743,
+    "location_bonus": 0.5,
+    "education_score": 0.99,
+    "final_score": 0.6418,
+    "reasoning": "Matched [TensorFlow, RAG] | Missing [Python, Machine Learning, NLP] | 6.1 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 64.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 72
+  },
+  {
+    "candidate_id": "CAND_0005649",
+    "semantic_similarity": 0.7759,
+    "skill_match": 0.1711,
+    "experience_match": 1.0,
+    "behavior_score": 0.6356,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6417,
+    "reasoning": "Matched [Machine Learning, TensorFlow, RAG] | Missing [Python, NLP, Docker] | 7.4 years experience | Platform engagement: Medium (GitHub: 81%) | Location: Willing to Relocate | Final Score: 64.2%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 73
+  },
+  {
+    "candidate_id": "CAND_0007460",
+    "semantic_similarity": 0.7653,
+    "skill_match": 0.166,
+    "experience_match": 1.0,
+    "behavior_score": 0.7108,
+    "location_bonus": 0.5,
+    "education_score": 0.955,
+    "final_score": 0.6415,
+    "reasoning": "Matched [NLP, RAG] | Missing [Python, Machine Learning, TensorFlow] | 4.7 years experience | Platform engagement: Medium (GitHub: 53%) | Location: Willing to Relocate | Final Score: 64.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 74
+  },
+  {
+    "candidate_id": "CAND_0002344",
+    "semantic_similarity": 0.7592,
+    "skill_match": 0.1353,
+    "experience_match": 1.0,
+    "behavior_score": 0.8139,
+    "location_bonus": 0.5,
+    "education_score": 0.95,
+    "final_score": 0.6414,
+    "reasoning": "Matched [NLP, TensorFlow] | Missing [Python, Machine Learning, Docker] | 4.7 years experience | Platform engagement: High (GitHub: 82%) | Location: Willing to Relocate | Final Score: 64.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 75
+  },
+  {
+    "candidate_id": "CAND_0073504",
+    "semantic_similarity": 0.7689,
+    "skill_match": 0.1568,
+    "experience_match": 1.0,
+    "behavior_score": 0.7309,
+    "location_bonus": 0.5,
+    "education_score": 0.93,
+    "final_score": 0.6414,
+    "reasoning": "Matched [TensorFlow, RAG] | Missing [Python, Machine Learning, NLP] | 6.6 years experience | Platform engagement: Medium (GitHub: 62%) | Location: Willing to Relocate | Final Score: 64.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 76
+  },
+  {
+    "candidate_id": "CAND_0042506",
+    "semantic_similarity": 0.7597,
+    "skill_match": 0.1869,
+    "experience_match": 1.0,
+    "behavior_score": 0.7139,
+    "location_bonus": 0.5,
+    "education_score": 0.88,
+    "final_score": 0.641,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 4.2 years experience | Platform engagement: Medium (GitHub: 64%) | Location: Willing to Relocate | Final Score: 64.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 77
+  },
+  {
+    "candidate_id": "CAND_0030513",
+    "semantic_similarity": 0.8045,
+    "skill_match": 0.2075,
+    "experience_match": 1.0,
+    "behavior_score": 0.4225,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6409,
+    "reasoning": "Matched [Python, Docker, SQL] | Missing [Machine Learning, NLP, TensorFlow] | 6.6 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 64.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "RAG",
+      "Git"
+    ],
+    "rank": 78
+  },
+  {
+    "candidate_id": "CAND_0035987",
+    "semantic_similarity": 0.774,
+    "skill_match": 0.1512,
+    "experience_match": 1.0,
+    "behavior_score": 0.7191,
+    "location_bonus": 0.5,
+    "education_score": 0.93,
+    "final_score": 0.6408,
+    "reasoning": "Matched [TensorFlow, SQL, NoSQL] | Missing [Python, Machine Learning, NLP] | 5.8 years experience | Platform engagement: Medium (GitHub: 56%) | Location: Willing to Relocate | Final Score: 64.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "TensorFlow",
+      "SQL",
+      "NoSQL",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "RAG",
+      "Git"
+    ],
+    "rank": 79
+  },
+  {
+    "candidate_id": "CAND_0057563",
+    "semantic_similarity": 0.7501,
+    "skill_match": 0.2027,
+    "experience_match": 1.0,
+    "behavior_score": 0.7004,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6408,
+    "reasoning": "Matched [Machine Learning, SQL, NoSQL] | Missing [Python, NLP, TensorFlow] | 6.8 years experience | Platform engagement: Medium (GitHub: 23%) | Location: Willing to Relocate | Final Score: 64.1%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "SQL",
+      "NoSQL",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "REST API",
+      "Git"
+    ],
+    "rank": 80
+  },
+  {
+    "candidate_id": "CAND_0071747",
+    "semantic_similarity": 0.7784,
+    "skill_match": 0.1279,
+    "experience_match": 1.0,
+    "behavior_score": 0.7206,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6404,
+    "reasoning": "Matched [Python, TensorFlow] | Missing [Machine Learning, NLP, Docker] | 4.2 years experience | Platform engagement: Medium (GitHub: 68%) | Location: Willing to Relocate | Final Score: 64.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 81
+  },
+  {
+    "candidate_id": "CAND_0024203",
+    "semantic_similarity": 0.7879,
+    "skill_match": 0.2017,
+    "experience_match": 1.0,
+    "behavior_score": 0.5322,
+    "location_bonus": 0.5,
+    "education_score": 0.93,
+    "final_score": 0.6403,
+    "reasoning": "Matched [Python, TensorFlow, RAG] | Missing [Machine Learning, NLP, Docker] | 4.4 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 64.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 82
+  },
+  {
+    "candidate_id": "CAND_0036604",
+    "semantic_similarity": 0.7783,
+    "skill_match": 0.1637,
+    "experience_match": 1.0,
+    "behavior_score": 0.6292,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6402,
+    "reasoning": "Matched [NLP, TensorFlow, Docker] | Missing [Python, Machine Learning, SQL] | 4.7 years experience | Platform engagement: Medium (GitHub: 16%) | Location: Willing to Relocate | Final Score: 64.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "NLP",
+      "TensorFlow",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 83
+  },
+  {
+    "candidate_id": "CAND_0027691",
+    "semantic_similarity": 0.7586,
+    "skill_match": 0.1525,
+    "experience_match": 1.0,
+    "behavior_score": 0.7386,
+    "location_bonus": 0.5,
+    "education_score": 0.99,
+    "final_score": 0.6399,
+    "reasoning": "Matched [Python, TensorFlow] | Missing [Machine Learning, NLP, Docker] | 6.5 years experience | Platform engagement: Medium (GitHub: 58%) | Location: Willing to Relocate | Final Score: 64.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 84
+  },
+  {
+    "candidate_id": "CAND_0058300",
+    "semantic_similarity": 0.7872,
+    "skill_match": 0.189,
+    "experience_match": 1.0,
+    "behavior_score": 0.6379,
+    "location_bonus": 0.5,
+    "education_score": 0.78,
+    "final_score": 0.6399,
+    "reasoning": "Matched [Python, Machine Learning, Docker] | Missing [NLP, TensorFlow, SQL] | 4.5 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 64.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker"
+    ],
+    "missing_skills": [
+      "NLP",
+      "TensorFlow",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 85
+  },
+  {
+    "candidate_id": "CAND_0089546",
+    "semantic_similarity": 0.7766,
+    "skill_match": 0.158,
+    "experience_match": 1.0,
+    "behavior_score": 0.6471,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6398,
+    "reasoning": "Matched [NLP, TensorFlow] | Missing [Python, Machine Learning, Docker] | 4.8 years experience | Platform engagement: Medium (GitHub: 46%) | Location: Willing to Relocate | Final Score: 64.0%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 86
+  },
+  {
+    "candidate_id": "CAND_0089889",
+    "semantic_similarity": 0.7794,
+    "skill_match": 0.1872,
+    "experience_match": 1.0,
+    "behavior_score": 0.6077,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6393,
+    "reasoning": "Matched [Python, NLP, TensorFlow] | Missing [Machine Learning, Docker, SQL] | 4.3 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "NLP",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 87
+  },
+  {
+    "candidate_id": "CAND_0092245",
+    "semantic_similarity": 0.8004,
+    "skill_match": 0.1543,
+    "experience_match": 1.0,
+    "behavior_score": 0.5806,
+    "location_bonus": 0.5,
+    "education_score": 0.95,
+    "final_score": 0.6393,
+    "reasoning": "Matched [NLP, RAG] | Missing [Python, Machine Learning, TensorFlow] | 4.1 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "NLP",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 88
+  },
+  {
+    "candidate_id": "CAND_0042370",
+    "semantic_similarity": 0.7903,
+    "skill_match": 0.1359,
+    "experience_match": 1.0,
+    "behavior_score": 0.6415,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6392,
+    "reasoning": "Matched [TensorFlow, SQL, NoSQL] | Missing [Python, Machine Learning, NLP] | 3.3 years experience | Platform engagement: Medium (GitHub: 40%) | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "TensorFlow",
+      "SQL",
+      "NoSQL"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 89
+  },
+  {
+    "candidate_id": "CAND_0096425",
+    "semantic_similarity": 0.8051,
+    "skill_match": 0.1298,
+    "experience_match": 1.0,
+    "behavior_score": 0.5955,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.639,
+    "reasoning": "Matched [TensorFlow, SQL, NoSQL] | Missing [Python, Machine Learning, NLP] | 4.0 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "TensorFlow",
+      "SQL",
+      "NoSQL"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "Docker",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 90
+  },
+  {
+    "candidate_id": "CAND_0020991",
+    "semantic_similarity": 0.7984,
+    "skill_match": 0.0805,
+    "experience_match": 1.0,
+    "behavior_score": 0.7954,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.639,
+    "reasoning": "Matched [Python] | Missing [Machine Learning, NLP, TensorFlow] | 4.9 years experience | Platform engagement: High (GitHub: 65%) | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Python"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 91
+  },
+  {
+    "candidate_id": "CAND_0006567",
+    "semantic_similarity": 0.7634,
+    "skill_match": 0.1603,
+    "experience_match": 1.0,
+    "behavior_score": 0.7111,
+    "location_bonus": 0.5,
+    "education_score": 0.95,
+    "final_score": 0.639,
+    "reasoning": "Matched [Python, NLP] | Missing [Machine Learning, TensorFlow, Docker] | 7.9 years experience | Platform engagement: Medium (GitHub: 35%) | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Python",
+      "NLP"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 92
+  },
+  {
+    "candidate_id": "CAND_0067183",
+    "semantic_similarity": 0.7782,
+    "skill_match": 0.1784,
+    "experience_match": 1.0,
+    "behavior_score": 0.6029,
+    "location_bonus": 0.5,
+    "education_score": 0.955,
+    "final_score": 0.6389,
+    "reasoning": "Matched [Machine Learning, NLP, TensorFlow] | Missing [Python, Docker, SQL] | 6.1 years experience | Platform engagement: Medium (GitHub: 18%) | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "RAG"
+    ],
+    "missing_skills": [
+      "Python",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "REST API",
+      "Git"
+    ],
+    "rank": 93
+  },
+  {
+    "candidate_id": "CAND_0013613",
+    "semantic_similarity": 0.7852,
+    "skill_match": 0.1752,
+    "experience_match": 1.0,
+    "behavior_score": 0.7687,
+    "location_bonus": 0.5,
+    "education_score": 0.58,
+    "final_score": 0.6388,
+    "reasoning": "Matched [Machine Learning, TensorFlow] | Missing [Python, NLP, Docker] | 4.7 years experience | Platform engagement: High (GitHub: 67%) | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 94
+  },
+  {
+    "candidate_id": "CAND_0050108",
+    "semantic_similarity": 0.8028,
+    "skill_match": 0.1699,
+    "experience_match": 1.0,
+    "behavior_score": 0.5224,
+    "location_bonus": 0.5,
+    "education_score": 0.955,
+    "final_score": 0.6386,
+    "reasoning": "Matched [Docker, RAG, REST API] | Missing [Python, Machine Learning, NLP] | 4.4 years experience | Platform engagement: Medium (GitHub: 52%) | Location: Willing to Relocate | Final Score: 63.9%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Docker",
+      "RAG",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "SQL",
+      "NoSQL",
+      "Git"
+    ],
+    "rank": 95
+  },
+  {
+    "candidate_id": "CAND_0079284",
+    "semantic_similarity": 0.7809,
+    "skill_match": 0.1749,
+    "experience_match": 1.0,
+    "behavior_score": 0.6238,
+    "location_bonus": 0.5,
+    "education_score": 0.9,
+    "final_score": 0.6385,
+    "reasoning": "Matched [Machine Learning, NLP] | Missing [Python, TensorFlow, Docker] | 4.9 years experience | Platform engagement: Medium | Location: Willing to Relocate | Final Score: 63.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP"
+    ],
+    "missing_skills": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 96
+  },
+  {
+    "candidate_id": "CAND_0006066",
+    "semantic_similarity": 0.7763,
+    "skill_match": 0.2003,
+    "experience_match": 1.0,
+    "behavior_score": 0.6072,
+    "location_bonus": 0.5,
+    "education_score": 0.84,
+    "final_score": 0.6383,
+    "reasoning": "Matched [Machine Learning, NLP, SQL] | Missing [Python, TensorFlow, Docker] | 4.3 years experience | Platform engagement: Medium (GitHub: 9%) | Location: Willing to Relocate | Final Score: 63.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "NLP",
+      "SQL",
+      "NoSQL",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "TensorFlow",
+      "Docker",
+      "RAG",
+      "Git"
+    ],
+    "rank": 97
+  },
+  {
+    "candidate_id": "CAND_0098846",
+    "semantic_similarity": 0.7596,
+    "skill_match": 0.1572,
+    "experience_match": 1.0,
+    "behavior_score": 0.7016,
+    "location_bonus": 0.5,
+    "education_score": 1.0,
+    "final_score": 0.6383,
+    "reasoning": "Matched [Machine Learning, TensorFlow] | Missing [Python, NLP, Docker] | 7.6 years experience | Platform engagement: Medium (GitHub: 86%) | Location: Willing to Relocate | Final Score: 63.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "High",
+    "matched_skills": [
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "missing_skills": [
+      "Python",
+      "NLP",
+      "Docker",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API",
+      "Git"
+    ],
+    "rank": 98
+  },
+  {
+    "candidate_id": "CAND_0032532",
+    "semantic_similarity": 0.7636,
+    "skill_match": 0.2102,
+    "experience_match": 1.0,
+    "behavior_score": 0.613,
+    "location_bonus": 0.5,
+    "education_score": 0.88,
+    "final_score": 0.6383,
+    "reasoning": "Matched [NLP, SQL, NoSQL] | Missing [Python, Machine Learning, TensorFlow] | 6.7 years experience | Platform engagement: Medium (GitHub: 45%) | Location: Willing to Relocate | Final Score: 63.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "NLP",
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "Docker",
+      "Git"
+    ],
+    "rank": 99
+  },
+  {
+    "candidate_id": "CAND_0018181",
+    "semantic_similarity": 0.7839,
+    "skill_match": 0.166,
+    "experience_match": 1.0,
+    "behavior_score": 0.6041,
+    "location_bonus": 0.5,
+    "education_score": 0.955,
+    "final_score": 0.6382,
+    "reasoning": "Matched [SQL, NoSQL, RAG] | Missing [Python, Machine Learning, NLP] | 5.7 years experience | Platform engagement: Medium (GitHub: 56%) | Location: Willing to Relocate | Final Score: 63.8%",
+    "recommendation_tier": "Consider",
+    "confidence_level": "Medium",
+    "matched_skills": [
+      "SQL",
+      "NoSQL",
+      "RAG",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "TensorFlow",
+      "Docker",
+      "Git"
+    ],
+    "rank": 100
+  }
+]

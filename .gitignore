@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Cache and local models
+.model_cache/
+
+# Large datasets / external challenges files
+\[PUB\] India_runs_data_and_ai_challenge/
+__MACOSX/
+
+# Node modules and distribution files in frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Logs
+*.log
+output/logs/
+

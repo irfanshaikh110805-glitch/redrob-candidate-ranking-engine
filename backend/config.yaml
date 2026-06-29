@@ -1,0 +1,126 @@
+# ============================================================
+# Redrob Hackathon — Ranking Engine Configuration
+# All weights, thresholds, and model settings are defined here.
+# Never hardcode values in source files.
+# ============================================================
+
+# ------ Model -----------------------------------------------
+model:
+  name: "sentence-transformers/all-MiniLM-L6-v2"
+  cache_dir: ".model_cache"
+  device: "cpu"          # "cpu" or "cuda"
+  normalize_embeddings: true
+
+# ------ Data Paths ------------------------------------------
+data:
+  candidates_jsonl: "../[PUB] India_runs_data_and_ai_challenge/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/candidates.jsonl"
+  job_description_docx: "../[PUB] India_runs_data_and_ai_challenge/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/job_description.docx"
+  output_dir: "../output"
+
+# ------ Scoring Weights (must sum to 1.0) -------------------
+weights:
+  semantic_similarity: 0.40
+  skill_match: 0.25
+  experience_match: 0.15
+  behavior_score: 0.10
+  location_bonus: 0.05
+  education_score: 0.05
+
+# ------ Experience Scoring ----------------------------------
+experience:
+  ideal_min_years: 3        # ideal lower bound
+  ideal_max_years: 8        # ideal upper bound
+  decay_sigma: 3.0          # Gaussian sigma for outside-range penalty
+  max_years_cap: 20.0       # cap candidates beyond this
+
+# ------ Skill Matching --------------------------------------
+skills:
+  fuzzy_threshold: 75       # RapidFuzz partial ratio threshold (0–100)
+  proficiency_weights:
+    beginner: 0.4
+    intermediate: 0.7
+    advanced: 0.9
+    expert: 1.0
+  endorsement_cap: 100      # max endorsements for normalization
+  duration_cap_months: 60   # cap skill duration for normalization
+  endorsement_weight: 0.2   # share of skill score from endorsements
+  duration_weight: 0.1      # share of skill score from duration
+
+# ------ Education Scoring -----------------------------------
+education:
+  degree_weights:
+    "phd": 1.0
+    "ph.d": 1.0
+    "doctorate": 1.0
+    "m.tech": 0.85
+    "m.e.": 0.85
+    "m.s.": 0.85
+    "mtech": 0.85
+    "m.sc": 0.80
+    "msc": 0.80
+    "mba": 0.80
+    "pgdm": 0.75
+    "b.tech": 0.70
+    "b.e.": 0.70
+    "btech": 0.70
+    "be": 0.70
+    "b.sc": 0.60
+    "bsc": 0.60
+    "b.com": 0.40
+    "bcom": 0.40
+    "diploma": 0.30
+  tier_weights:
+    "tier_1": 1.0
+    "tier_2": 0.80
+    "tier_3": 0.60
+    "tier_4": 0.40
+    "unknown": 0.50
+  field_relevance_bonus: 0.15    # bonus for CS/ML/AI field match
+  relevant_fields:
+    - "computer science"
+    - "information technology"
+    - "machine learning"
+    - "artificial intelligence"
+    - "data science"
+    - "software engineering"
+    - "electronics"
+    - "mathematics"
+    - "statistics"
+
+# ------ Location Scoring ------------------------------------
+location:
+  exact_city_score: 1.0
+  same_country_score: 0.6
+  willing_to_relocate_score: 0.4
+  no_match_score: 0.0
+
+# ------ Behavior Scoring ------------------------------------
+behavior:
+  profile_completeness_weight: 0.20
+  recruiter_response_weight: 0.20
+  github_activity_weight: 0.15
+  assessment_score_weight: 0.15
+  interview_completion_weight: 0.10
+  open_to_work_weight: 0.10
+  engagement_weight: 0.10   # views + saved + connections (normalized)
+  avg_response_time_max_hours: 48.0   # below this = max score
+
+# ------ Performance -----------------------------------------
+performance:
+  embedding_batch_size: 512      # Increased from 64 to 512 for much better throughput  
+  candidate_chunk_size: 10000    # Increased from 5000 to 10000 to reduce overhead
+  top_k: 100
+  faiss_index_type: "flat"       # "flat" for exact, "ivf" for approximate
+
+# ------ API -------------------------------------------------
+api:
+  host: "0.0.0.0"
+  port: 8001
+  cors_origins:
+    - "http://localhost:5173"
+    - "http://localhost:5174"
+    - "http://localhost:3000"
+    - "http://127.0.0.1:5173"
+    - "http://127.0.0.1:5174"
+    - "http://127.0.0.1:3000"
+  log_level: "info"
